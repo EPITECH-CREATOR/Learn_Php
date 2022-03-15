@@ -1,2 +1,2 @@
 # Learn_Php
-# r"ggt
+# Connection à une base de donné"
